@@ -18,10 +18,12 @@ Actualmente estoy en transición hacia **Data Analytics**, cursando el Bootcamp 
 ## 📂 Proyectos Destacados / Featured Projects
 *(En construcción, pronto estarán disponibles aquí con links a los repositorios)*  
 
-- A/B Test Analysis – Megaline Telecom  
-- Cohort & Churn Analysis – CoffeeHome  
-- Ride-Sharing Market Analysis – Zuber  
-- E-commerce Funnel Analysis  
+## 📂 Featured Projects
+- [Sprint 10 – A/B Testing](https://github.com/laipching/sprint10_ab_testing)
+- [Sprint 9 – Business Analysis](https://github.com/laipching/sprint9_business_analysis)
+- [Sprint 8 – SQL Data Storage](https://github.com/laipching/sprint8_sql_data_storage)
+- [Sprint 7 – Streamlit App (Vehicles)](https://github.com/laipching/sprint7_streamlit_vehicles)
+- [Sprint 6 – Module 1](https://github.com/laipching/sprint6_module1) 
 
 ---
 
