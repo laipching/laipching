@@ -8,10 +8,10 @@ Actualmente estoy en transición hacia **Data Analytics**, cursando el Bootcamp 
 ---
 
 ## 🚀 Habilidades / Skills
-- **Lenguajes:** SQL, Python, MATLAB  
-- **Herramientas de análisis:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Business & Industry:** Validation processes, Project Management, Pharmaceutical Industry  
-- **Soft skills:** Comunicación efectiva, liderazgo, resolución de problemas  
+- **Languages / Lenguajes:** SQL, Python, MATLAB  
+- **Tools / Herramientas:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Industry / Industria:** Pharma validation, Project Management  
+- **Soft Skills / Habilidades blandas:** Effective communication, problem solving
 
 ---
 
@@ -19,11 +19,26 @@ Actualmente estoy en transición hacia **Data Analytics**, cursando el Bootcamp 
 *(En construcción, pronto estarán disponibles aquí con links a los repositorios)*  
 
 ## 📂 Featured Projects
-- [Sprint 10 – A/B Testing](https://github.com/laipching/sprint10_ab_testing)
-- [Sprint 9 – Business Analysis](https://github.com/laipching/sprint9_business_analysis)
-- [Sprint 8 – SQL Data Storage](https://github.com/laipching/sprint8_sql_data_storage)
-- [Sprint 7 – Streamlit App (Vehicles)](https://github.com/laipching/sprint7_streamlit_vehicles)
-- [Sprint 6 – Module 1](https://github.com/laipching/sprint6_module1) 
+- [Sprint 10 – A/B Testing & Hypothesis Testing](https://github.com/laipching/sprint10_ab_testing)  
+  **EN:** Analyze conversion rates, test significance, and recommend business decisions.  
+  **ES:** Análisis de tasas de conversión, pruebas de significancia y recomendaciones de negocio.  
+
+- [Sprint 9 – Business Analysis](https://github.com/laipching/sprint9_business_analysis)  
+  **EN:** Cohort, funnel, and unit economics analysis (LTV, CAC, ROMI).  
+  **ES:** Análisis de cohortes, embudos y métricas de economía unitaria (LTV, CAC, ROMI).  
+
+- [Sprint 8 – SQL Data Storage](https://github.com/laipching/sprint8_sql_data_storage)  
+  **EN:** SQL queries with joins, aggregations, and window functions.  
+  **ES:** Consultas SQL con joins, agregaciones y funciones de ventana.  
+
+- [Sprint 7 – Streamlit Vehicles App](https://github.com/laipching/sprint7_streamlit_vehicles)  
+  **EN:** Interactive web app with Streamlit for vehicle listings EDA and visualizations.  
+  **ES:** Aplicación web interactiva con Streamlit para EDA y visualizaciones de anuncios de vehículos.  
+
+- [Sprint 6 – Module 1 Project](https://github.com/laipching/sprint6_module1)  
+  **EN:** Exploratory data analysis with Pandas, Seaborn, and Matplotlib.  
+  **ES:** Análisis exploratorio de datos con Pandas, Seaborn y Matplotlib.  
+
 
 ---
 
